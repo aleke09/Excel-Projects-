@@ -1,0 +1,89 @@
+Question 3a
+QTR1
+ruler is the best selling product in the west in Qtr1 of 2021.
+binder is the best selling product in the central in Qtr1 of 2021.
+ruler is the best selling product in the east in Qtr1 of 2021.
+
+binder is the best selling product in the east in Qtr1 of 2022.
+binder is the best selling product in the west in Qtr1 of 2022.
+pen set is the best selling product in the central in Qtr1 of 2022.
+
+
+QTR2
+binder is the best selling product in the east in Qtr2 of 2021.
+ruler is the best selling product in the west in Qtr2 of 2021.
+ruler is the best selling product in the central in Qtr2 of 2021.
+
+pen set is the best selling product in the east in Qtr2 of 2022.
+no product in the west in Qtr2 of 2022.
+ruler set is the best selling product in the central in Qtr2 of 2022.
+
+
+
+QTR3
+binder is the best selling product in the east in Qtr3 of 2021.
+no product sold in the west in Qtr3 of 2021.
+desk pen is the best selling product in the central in Qtr3 of 2021.
+
+pen set is the best selling product in the east in Qtr3 of 2022.
+desk pen is the best selling product in the west in Qtr3 of 2022.
+pen set is the best selling product in the central in Qtr3 of 2022.
+
+
+
+QTR4
+pen set is the best selling product in the east in Qtr4 of 2021.
+no product sold in the west in Qtr4 of 2021.
+pen set is the best selling product in the central in Qtr4 of 2021.
+
+no product sold in the east in Qtr4 of 2022.
+binder is the best selling product in the west in Qtr4 of 2022.
+binder is the best selling product in the central in Qtr4 of 2022.
+
+sales by items
+QTR1
+ruler is the best selling product in the west in Qtr1 of 2021.
+binder is the best selling product in the central in Qtr1 of 2021.
+ruler is the best selling product in the east in Qtr1 of 2021.
+
+binder is the best selling product in the east in Qtr1 of 2022.
+binder is the best selling product in the west in Qtr1 of 2022.
+pen set is the best selling product in the central in Qtr1 of 2022.
+
+
+QTR2
+binder is the best selling product in the east in Qtr2 of 2021.
+ruler is the best selling product in the west in Qtr2 of 2021.
+ruler is the best selling product in the central in Qtr2 of 2021.
+
+pen set is the best selling product in the east in Qtr2 of 2022.
+no product in the west in Qtr2 of 2022.
+ruler set is the best selling product in the central in Qtr2 of 2022.
+
+
+
+
+QTR3
+binder is the best selling product in the east in Qtr3 of 2021.
+no product sold in the west in Qtr3 of 2021.
+desk pen is the best selling product in the central in Qtr3 of 2021.
+
+pen set is the best selling product in the east in Qtr3 of 2022.
+desk pen is the best selling product in the west in Qtr3 of 2022.
+pen set is the best selling product in the central in Qtr3 of 2022.
+
+
+
+QTR4
+pen set is the best selling product in the east in Qtr4 of 2021.
+no product sold in the west in Qtr4 of 2021.
+pen set is the best selling product in the central in Qtr4 of 2021.
+
+no product sold in the east in Qtr4 of 2022.
+binder is the best selling product in the west in Qtr4 of 2022.
+binder is the best selling product in the central in Qtr4 of 2022.
+
+Question 3b
+pen set is the worst selling product in west
+desk pen is the worst selling product in the east
+desk pen is the worst selling product in the central

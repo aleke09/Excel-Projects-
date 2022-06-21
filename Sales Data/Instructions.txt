@@ -1,0 +1,13 @@
+Using the dataset provided in this zipped folder, create a dashboard visual like the one in your bikers example.
+
+Instructions:
+
+Add a new product, Ruler, to the list of products. 10% fewer Rulers were sold every time pencils were sold and at a price that is 15% higher than the price of a pencil. Amend the table accordingly.
+
+Show the following:
+1. Sales by item per region with date filter
+2. Sales by item per rep with date filter
+
+3. From your visuals, determine:
+a. The best selling product per region in each quarter of 2021 and 2022.
+b. The overall worst-selling product per region.
